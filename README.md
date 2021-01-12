@@ -22,9 +22,9 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://github.com/Anavh/Anavh/blob/main/python-logo.png"></code>
-<code><img height="30" src="https://github.com/Anavh/Anavh/blob/main/tools.PNG"></code>
-<code><img height="30" src="https://github.com/Anavh/Anavh/blob/main/PowerBI.Tableau.jpg"></code>
+<code><img height="60" src="https://github.com/Anavh/Anavh/blob/main/python-logo.png"></code>
+<code><img height="60" src="https://github.com/Anavh/Anavh/blob/main/tools.PNG"></code>
+<code><img height="60" src="https://github.com/Anavh/Anavh/blob/main/PowerBI.Tableau.jpg"></code>
 
 <a href="https://github-readme-stats.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anavh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anavh's github stats" />
