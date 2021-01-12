@@ -6,7 +6,6 @@
 [![GitHub anavh](https://img.shields.io/github/followers/anavh?label=follow&style=social)](https://github.com/anavh)
 
 
-
 - **Online Retail proyect**  [Link](https://github.com/Anavh/OnlineRetail)
 - **QR code generator**  [Link](https://github.com/Anavh/QR-code-generator-python)
 
@@ -21,8 +20,12 @@
       Sales Report, Video Game Industry.
       Global Indicators Report.
       HH.RR Report.
+<br/>
 
+#### My Github QR code: <br/>
 
+<code><img height="100" src="https://github.com/Anavh/QR-code-generator-python/blob/main/QR.mygithub/QRgithub.png"></code>
+<code><img height="100" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></code>
 
 **Languages and Tools:**  
 
