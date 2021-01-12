@@ -1,4 +1,9 @@
 ### Hello World! It´s Ana 👋  Welcome to my Github Profile 🔭 !
+[![Linkedin: Ana Vega](https://img.shields.io/badge/-anavh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anavh/)](https://www.linkedin.com/in/anavh/)
+[![Gmail Badge](https://img.shields.io/badge/-vegahernandez.ana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vegahernandez.ana@gmail.com)](mailto:vegahernandez.ana@gmail.com)
+[![GitHub anavh](https://img.shields.io/github/followers/anavh?label=follow&style=social)](https://github.com/anavh)<br/>
+
+![alt text](https://github.com/Anavh/Anavh/blob/main/data..jpg)
 
 [![Linkedin: Ana Vega](https://img.shields.io/badge/-anavh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anavh/)](https://www.linkedin.com/in/anavh/)
 [![Gmail Badge](https://img.shields.io/badge/-vegahernandez.ana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vegahernandez.ana@gmail.com)](mailto:vegahernandez.ana@gmail.com)
@@ -18,8 +23,8 @@
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFFFFF?style=flat&link=https://github.com/anavh)
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FFFFFF?style=flat&link=https://github.com/anavh)<br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
-  ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)<br/>
-  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=black)
+  ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=black)<br/>
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
   ![RStudio](https://img.shields.io/badge/-RStudio-FFFFFF?style=flat&logo=rstudio)<br/>
