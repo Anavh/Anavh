@@ -4,8 +4,24 @@
 [![GitHub anavh](https://img.shields.io/github/followers/anavh?label=follow&style=social)](https://github.com/anavh)<br/>
 
 ![alt text](https://github.com/Anavh/Anavh/blob/main/data..jpg)
+</br>
+</br>
+<hr>
+<h2 align = "left"> About me </h2>
 
-- 💻 **Languages and Tools:**  &nbsp;<br/>
+- 📄 My CV [Link](https://drive.google.com/file/d/1GNxmhXsP-5xrtWV29d7vzRKE44gZIx6E/view?usp=sharing)
+
+- 💻 My Github Page [Link](https://anavh.github.io/)
+
+- 🤝 Loooking for new proyects. Do you want to count on me? 
+
+- 👩🏻‍🎓 Learning Web Scrapping! 
+
+
+</br>
+<h2 align = "left"> 💻 Languages and Tools </h2>
+
+&nbsp;<br/>
   ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-FFFFFF?style=flat&logo=R&logoColor=276DC3) <br/>
   [![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=Pandas&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/anavh)
@@ -25,10 +41,11 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
   ![RStudio](https://img.shields.io/badge/-RStudio-FFFFFF?style=flat&logo=rstudio)<br/>
 
-#### My Github QR code: <br/>
+</br>
+<h2 align = "left"> My Gitgub QR Code  </h2>
 
-<code><img height="100" src="https://github.com/Anavh/QR-code-generator-python/blob/main/QR.mygithub/QRgithub.png"></code>
-<code><img height="100" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></code>
+<code><img height="140" src="https://github.com/Anavh/QR-code-generator-python/blob/main/QR.mygithub/QRgithub.png"></code>
+<code><img height="140" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></code>
 
 
 #### 🎨 [Tableau](https://public.tableau.com/profile/anavh#!/) Proyects
@@ -43,6 +60,8 @@
       Global Indicators Report.
       HH.RR Report.
 <br/>
+<h4 align="left"></h4>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavh&langs_count=10&theme=buefy&layout=compact" alt="anavh" /></p>
 
-
+<h4 align="left"></h4>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=anavh&show_icons=true&theme=buefy" alt="anavh" /></p>
