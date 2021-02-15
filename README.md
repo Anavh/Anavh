@@ -2,8 +2,6 @@
 [![Linkedin: Ana Vega](https://img.shields.io/badge/-anavh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anavh/)](https://www.linkedin.com/in/anavh/)
 [![Gmail Badge](https://img.shields.io/badge/-vegahernandez.ana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vegahernandez.ana@gmail.com)](mailto:vegahernandez.ana@gmail.com)
 [![GitHub anavh](https://img.shields.io/github/followers/anavh?label=follow&style=social)](https://github.com/anavh)<br/>
-</br>
-</br>
 <hr>
 <h2 align = "left"> About me </h2>
 
