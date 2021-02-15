@@ -37,15 +37,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
   ![RStudio](https://img.shields.io/badge/-RStudio-FFFFFF?style=flat&logo=rstudio)<br/>
 
-</br>
-<h2 align = "left"> My Gitgub QR Code  </h2>
-
-<code><img height="140" src="https://github.com/Anavh/QR-code-generator-python/blob/main/QR.mygithub/QRgithub.png"></code>
-<code><img height="140" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></code>
-
-
-#### 🎨 [Tableau](https://public.tableau.com/profile/anavh#!/) Proyects
-          
+#### 🎨 [Tableau](https://public.tableau.com/profile/anavh#!/) Proyects 
       Online Retail
       World Map Covid19 Situation
       120 Years of Olympic Games
@@ -54,13 +46,22 @@
       Sales-VS-Target
       NYC Parks.Crime-stats
       Average Annual Salary Map
-      
 
 #### 🎨 [PowerBI](https://github.com/Anavh/PowerBI) Proyects
 
       Sales Report, Video Game Industry.
       Global Indicators Report.
       HH.RR Report.
+      
+#### 🐍 Python
+ [QR-code-generator-python](https://github.com/Anavh/QR-code-generator-python)<br/>
+ [Christmas_Trees](https://github.com/Anavh/Christmas_Trees)<br/>
+ 
+ <h2 align = "left"> My Gitgub QR Code  </h2>
+
+<code><img height="140" src="https://github.com/Anavh/QR-code-generator-python/blob/main/QR.mygithub/QRgithub.png"></code>
+<code><img height="140" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></code>
+
 <br/>
 <h4 align="left"></h4>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavh&langs_count=10&theme=buefy&layout=compact" alt="anavh" /></p>
