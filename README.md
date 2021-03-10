@@ -5,15 +5,6 @@
 <hr>
 <h2 align = "left"> About me </h2>
 
-- 📄 My CV [Link](https://drive.google.com/file/d/1GNxmhXsP-5xrtWV29d7vzRKE44gZIx6E/view?usp=sharing)
-
-- 💻 My Github Page [Link](https://anavh.github.io/)
-
-- 🤝 Loooking for new proyects. Do you want to count on me? 
-
-- 👩🏻‍🎓 Learning Web Scrapping! 
-
-
 </br>
 <h2 align = "left"> 💻 Languages and Tools </h2>
 
