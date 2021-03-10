@@ -3,7 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-vegahernandez.ana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vegahernandez.ana@gmail.com)](mailto:vegahernandez.ana@gmail.com)
 [![GitHub anavh](https://img.shields.io/github/followers/anavh?label=follow&style=social)](https://github.com/anavh)<br/>
 <hr>
-<h2 align = "left"> About me </h2>
 
 </br>
 <h2 align = "left"> 💻 Languages and Tools </h2>
